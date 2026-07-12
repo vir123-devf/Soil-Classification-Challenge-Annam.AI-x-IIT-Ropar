@@ -271,4 +271,4 @@ At a high level:
 <p align="center">Trained on pixels, validated on patience — made with love by <b>Virendra Badgotya</b> 🧡</p>
 
 
-<p align="center">Trained on pixels, validated on patience — made with love by <b>Virendra Badgotya</b> 🧡</p>
+
