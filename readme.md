@@ -176,10 +176,10 @@ Common columns:
 
 Final standings on the **private leaderboard** (calculated on ~70% of the test data; competitions have completed):
 
-| Challenge | Rank | Team | Score | Entries | Rank Δ |
-|---|---|---|---|---|---|
-| Part 1 (4-class) | 109 | Virendra Badgotya | **0.9610** | 4 | ▲57 |
-| Part 2 (Binary) | 50 | Virendra Badgotya | **0.8666** | 4 | ▲12 |
+| Challenge | Rank | Team | Score | Entries | 
+|---|---|---|---|---|
+| Part 1 (4-class) | 109 | Virendra Badgotya | **0.9610** | 4 |
+| Part 2 (Binary) | 50 | Virendra Badgotya | **0.8666** | 4 |
 
 ---
 
