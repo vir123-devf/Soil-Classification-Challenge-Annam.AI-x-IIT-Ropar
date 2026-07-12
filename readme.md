@@ -184,7 +184,7 @@ Final standings on the **private leaderboard** (calculated on ~70% of the test d
 ```
 .
 ├── README.md
-├── Soil_Classification_challenge_Document.pdf     # Original challenge brief (this doc's source)
+├── Soil_Classification_Challenge_Document.pdf     # Original challenge brief (this doc's source)
 ├── Part-1_Code.ipynb                          # 4-class soil classification solution (ResNet18)
 └── Part-2_Code.ipynb                          # Binary soil classification solution (ResNet18 features + One-Class SVM)
 ```
