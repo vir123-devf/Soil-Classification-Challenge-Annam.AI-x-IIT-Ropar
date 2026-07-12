@@ -2,6 +2,10 @@
 
 This repository contains my solutions for the **Soil Image Classification Challenge**, a two-part Kaggle competition hosted by **Annam.AI (IIT Ropar)** as an initial task for shortlisted hackathon participants.
 
+📄 *Full document (Kaggle challenge page screenshots): [Soil_Classification_Challenge_Document.pdf](./Soil_Classification_Challenge_Document.pdf)*
+
+📊 *See [Results](#results) above for my private leaderboard rankings on both challenges.*
+
 | | |
 |---|---|
 | **Host** | Annam.AI, IIT Ropar |
@@ -264,4 +268,7 @@ At a high level:
 ---
 
 
-Trained on pixels, validated on patience — made with love by Virendra Badgotya 🧡
+<p align="center">Trained on pixels, validated on patience — made with love by <b>Virendra Badgotya</b> 🧡</p>
+
+
+<p align="center">Trained on pixels, validated on patience — made with love by <b>Virendra Badgotya</b> 🧡</p>
