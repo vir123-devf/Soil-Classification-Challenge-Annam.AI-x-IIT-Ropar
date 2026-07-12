@@ -23,7 +23,7 @@ This repository contains my solutions for the **Soil Image Classification Challe
 - [Approach](#approach)
 - [Part 1 — Code Details (`Part-1.ipynb`)](#part-1--code-details-part-1ipynb)
 - [Part 2 — Code Details (`Part-2.ipynb`)](#part-2--code-details-part-2ipynb)
-- [License](#license)
+
 
 ---
 
@@ -262,8 +262,3 @@ At a high level:
 **8. Submission** — writes `submission.csv` with columns `image_id`, `label` (0/1).
 
 ---
-
-## License
-
-- Part 1 dataset license: **MIT**
-- Part 2 dataset license: **Unset** (refer to competition rules on Kaggle before reuse/redistribution)
